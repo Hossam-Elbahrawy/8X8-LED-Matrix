@@ -14,7 +14,7 @@ Hardware
 
 Circuit
 --------
-![LED_Matrix](circuit/8x8Led_Mat.PNG)
+![LED_Matrix](Circuit/8x8Led_Mat.PNG)
 
 Installation
 ------------
